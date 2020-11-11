@@ -15,3 +15,7 @@ export function App() {
         </StyledApp>
     )
 }
+
+if (document.getElementById('react_root')) {
+    ReactDOM.render(<App />, document.getElementById('react_root'));
+}
