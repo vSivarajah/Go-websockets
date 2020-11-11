@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel src/index.html --host react-app.vigneshsivarajah.no --https --cert /etc/letsencrypt/live/react-app.vigneshsivarajah.no/cert.pem --key /etc/letsencrypt/live/react-app.vigneshsivarajah.no/privkey.pem --hmr-hostname react-app.vigneshsivarajah.no --hmr-port 3462 --no-autoinstall --no-source-maps",
+    "start": "parcel src/index.html -t node --host react-app.vigneshsivarajah.no --https --cert /etc/letsencrypt/live/react-app.vigneshsivarajah.no/cert.pem --key /etc/letsencrypt/live/react-app.vigneshsivarajah.no/privkey.pem --hmr-hostname react-app.vigneshsivarajah.no --hmr-port 3462 --no-autoinstall --no-source-maps",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
