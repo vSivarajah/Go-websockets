@@ -1,9 +1,10 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import ReactDOM from 'react-dom';
 import styled from 'styled-components';
 
 const StyledApp = styled.div`
     border: 1px solid #f00;
+
 `;
 
 
