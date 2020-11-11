@@ -4,7 +4,6 @@ import styled from 'styled-components';
 
 const StyledApp = styled.div`
     border: 1px solid #f00;
-
 `;
 
 
