@@ -1,0 +1,5 @@
+parcel_blueprint/.cache
+parcel_blueprint/dist
+parcel_blueprint/node_modules
+parcel_blueprint/package-lock.json
+parcel_blueprint/src/fonts/Hackman
