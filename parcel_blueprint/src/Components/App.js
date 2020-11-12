@@ -1,5 +1,5 @@
 var React = require('react');
-import ReactDOM from 'react-dom';
+var ReactDOM = require('react-dom');
 import styled from 'styled-components';
 
 const StyledApp = styled.div`
