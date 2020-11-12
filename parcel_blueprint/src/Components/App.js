@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+var React = require('react');
 import ReactDOM from 'react-dom';
 import styled from 'styled-components';
 
